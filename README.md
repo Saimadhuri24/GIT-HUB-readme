@@ -1,5 +1,3 @@
-# GIT-HUB-readme
-
 # 👋 Hi, I'm Sai Madhuri  
 
 🎓 **B.Tech Computer Science & Engineering (AI & ML)** Student  
