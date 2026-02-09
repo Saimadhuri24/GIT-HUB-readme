@@ -67,8 +67,8 @@ A web-based application that predicts health-related risks such as **pre-diabete
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*  
-- 📧 Email: *(Add your professional email)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/sai-madhuri-16a2a9284?utm_source=share_via&utm_content=profile&utm_medium=member_android)*  
+- 📧 Email: *(saimadhuri247@gmail.com)*  
 - 🌐 Portfolio: *(GitHub Pages – Coming Soon!)*  
 
 ---
