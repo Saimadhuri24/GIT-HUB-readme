@@ -61,7 +61,7 @@ A web-based application that predicts health-related risks such as **pre-diabete
 ---
 
 ## 🏆 Achievements & Activities  
-- Participated in **Ideathon** focused on healthcare innovation  
+- Winner in **Ideathon** focused on healthcare innovation  
 - Completed multiple academic and self-learning projects  
 
 ---
