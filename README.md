@@ -18,7 +18,6 @@
 
 ### 💻 Programming Languages  
 - Python  
-- Java  
 - C  
 
 ### 🤖 AI / ML  
